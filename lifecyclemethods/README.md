@@ -33,13 +33,11 @@ Developed by: Hari Haran L K
 Registeration Number :212221040051
 */
 ```
-**MAINACTIVITY:**
-\n
+**MAINACTIVITY:** \n\n
+    
     
     package com.example.activity_cycle;
-
     import androidx.appcompat.app.AppCompatActivity;
-
     import android.os.Bundle;
     import android.widget.Toast;
 
