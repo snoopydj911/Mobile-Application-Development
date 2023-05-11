@@ -79,8 +79,7 @@ Registeration Number :212221040051
         Toast toast = Toast.makeText(getApplicationContext(),"onRestart",Toast.LENGTH_SHORT);
         toast.show();
     }
-
-}
+    }
 
 **XML FILE:**
     
