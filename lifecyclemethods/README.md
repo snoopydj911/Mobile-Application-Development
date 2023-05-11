@@ -33,7 +33,7 @@ Developed by: Hari Haran L K
 Registeration Number :212221040051
 */
 ```
-**MAINACTIVITY:** \n\n
+**MAINACTIVITY:**
     
     
     package com.example.activity_cycle;
