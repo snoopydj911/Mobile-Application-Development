@@ -33,8 +33,7 @@ Developed by: Hari Haran L K
 Registeration Number :212221040051
 */
 ```
-    **MAINACTIVITY:**
-    
+    MAINACTIVITY:
     
     package com.example.activity_cycle;
     import androidx.appcompat.app.AppCompatActivity;
