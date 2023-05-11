@@ -33,7 +33,7 @@ Developed by: Hari Haran L K
 Registeration Number :212221040051
 */
 ```
-    MAINACTIVITY:
+**MAINACTIVITY:**
     
     package com.example.activity_cycle;
     import androidx.appcompat.app.AppCompatActivity;
@@ -83,8 +83,10 @@ Registeration Number :212221040051
 }
 
 **XML FILE:**
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    
+    <?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -118,8 +120,7 @@ Registeration Number :212221040051
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
 
 ## OUTPUT
 
