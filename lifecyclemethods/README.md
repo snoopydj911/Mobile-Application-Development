@@ -34,14 +34,16 @@ Registeration Number :212221040051
 */
 ```
 **MAINACTIVITY:**
-package com.example.activity_cycle;
+\n
+    
+    package com.example.activity_cycle;
 
-import androidx.appcompat.app.AppCompatActivity;
+    import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
-import android.widget.Toast;
+    import android.os.Bundle;
+    import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+    public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
