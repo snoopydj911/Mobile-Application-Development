@@ -122,19 +122,19 @@ Registeration Number :212221040051
         </androidx.constraintlayout.widget.ConstraintLayout>
 
 ## OUTPUT
-   ##ON_CREATE()
+   ## ON_CREATE()
    ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8d10797d-085e-4f19-af60-3b301593e0f7)
-    ##ON_START()
+   ## ON_START()
    ![strt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/808f60d1-3452-45ee-9218-76498727409e)
-    ##ON_RESUME()
+   ## ON_RESUME()
    ![resum](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/5d122070-2879-4980-8fb5-7de97c5b65ff)
-    ##ON_PAUSE()
+   ## ON_PAUSE()
    ![pas](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/de9d30b5-1169-46db-b579-d41164280a0f)
-    ##ON_STOP()
+   ## ON_STOP()
    ![stp](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/a92a6341-24e3-4d5c-bb13-b0ddff7a83a7)
-    ##ON_RESTART()
+   ## ON_RESTART()
    ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/89b41d12-373f-4bca-abdf-4131c97d2726)
-    ##ON_DESTROY()
+   ## ON_DESTROY()
     ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/d2ab9043-e633-4992-b72e-f8f604910043)
 
 
