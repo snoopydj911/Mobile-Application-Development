@@ -123,16 +123,15 @@ Registeration Number :212221040051
 
 
 ## OUTPUT
-   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/d37d40f6-b9dd-4c0d-bc32-690242712987) <br>
-   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/a4802684-e891-4287-99c3-939091c6a110) <br>
-   ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/957f7f16-76d1-4031-800c-f8cafc7bf535) <br>
-   ![strt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/bf7c94c7-3701-4764-a27f-b1cad735a61d) <br>
-   ![resum](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/600622b9-d723-45e9-9d3c-5930a77e9ef3) <br>
-   ![pas](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/2a232c12-304e-4193-b970-44e7358cf81c) <br>
-   ![stp](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/643cd6d5-b876-457d-a171-563b0acb154a) <br>
-   ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/4324cefd-da3f-4568-9c53-f7318a72a9a9) <br>
-   ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/1cc32493-8bdf-42c9-9a66-8d09b4015427) <br>
-
+   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/87f3a213-a6ca-4f4e-ab4f-50fb865588ac) <br>
+   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/88157ada-0f43-4851-8377-833b8e4074a6) <br>
+   ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/5a3239ed-ecfe-47bc-86e4-eecf45ea03ad) <br>
+   ![strt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8757021d-ab85-4fe2-8cf6-9aeff41d7e52) <br>
+   ![resum](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/69ccd14f-999b-4879-8436-8c6c05074048) <br>
+   ![pas](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/55d07c84-8ebb-4bf4-ba22-fc649e8e14df) <br>
+   ![stp](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8989f4ba-f9d7-4003-ab59-53c44342f978) <br>
+   ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/1ac2fe13-042c-4824-bac1-9c0ff6088593) <br>
+   ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b7fddcc8-e2ef-4c22-bcca-d92572cf143b) <br>
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
