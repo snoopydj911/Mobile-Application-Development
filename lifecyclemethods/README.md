@@ -33,6 +33,46 @@ Developed by: Hari Haran L K
 Registeration Number :212221040051
 */
 ```
+**XML FILE:**
+    
+    
+    <?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="298dp"
+        android:layout_height="90dp"
+        android:layout_marginBottom="341dp"
+        android:text="ACTIVITY CYCLE"
+        android:textColor="@color/teal_200"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.588"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.499" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="92dp"
+        android:layout_height="91dp"
+        android:layout_marginBottom="32dp"
+        android:src="@drawable/img"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        
 **MAINACTIVITY:**
     
     package com.example.activity_cycle;
@@ -81,47 +121,12 @@ Registeration Number :212221040051
     }
     }
 
-**XML FILE:**
-    
-    
-    <?xml version="1.0" encoding="utf-8"?>
-    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="298dp"
-        android:layout_height="90dp"
-        android:layout_marginBottom="341dp"
-        android:text="ACTIVITY CYCLE"
-        android:textColor="@color/teal_200"
-        android:textSize="36sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.588"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.499" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="92dp"
-        android:layout_height="91dp"
-        android:layout_marginBottom="32dp"
-        android:src="@drawable/img"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/avatars" />
-        </androidx.constraintlayout.widget.ConstraintLayout>
 
 ## OUTPUT
+   ## XML
+   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/36e4861c-28d7-4c8f-8c31-204ec0fafcff)
+   ## MAIN
+   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b9e2d4ff-3693-4756-9bb7-733f792d1326)
    ## ON_CREATE()
    ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8d10797d-085e-4f19-af60-3b301593e0f7)
    ## ON_START()
