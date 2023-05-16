@@ -123,22 +123,22 @@ Registeration Number :212221040051
 
 
 ## OUTPUT
-   XML
-   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/36e4861c-28d7-4c8f-8c31-204ec0fafcff)
-   MAIN
-   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b9e2d4ff-3693-4756-9bb7-733f792d1326)
-   ON_CREATE()
-   ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8d10797d-085e-4f19-af60-3b301593e0f7)
+   XML <br>
+   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/36e4861c-28d7-4c8f-8c31-204ec0fafcff) <br>
+   MAIN 
+   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b9e2d4ff-3693-4756-9bb7-733f792d1326) <br>
+   ON_CREATE() 
+   ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8d10797d-085e-4f19-af60-3b301593e0f7) <br>
    ON_START()
-   ![strt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/808f60d1-3452-45ee-9218-76498727409e)
+   ![strt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/808f60d1-3452-45ee-9218-76498727409e) <br>
    ON_RESUME()
-   ![resum](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/5d122070-2879-4980-8fb5-7de97c5b65ff)
+   ![resum](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/5d122070-2879-4980-8fb5-7de97c5b65ff) <br>
    ON_PAUSE()
-   ![pas](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/de9d30b5-1169-46db-b579-d41164280a0f)
+   ![pas](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/de9d30b5-1169-46db-b579-d41164280a0f) <br>
    ON_STOP()
-   ![stp](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/a92a6341-24e3-4d5c-bb13-b0ddff7a83a7)
+   ![stp](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/a92a6341-24e3-4d5c-bb13-b0ddff7a83a7) <br>
    ON_RESTART()
-   ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/89b41d12-373f-4bca-abdf-4131c97d2726)
+   ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/89b41d12-373f-4bca-abdf-4131c97d2726) <br>
    ON_DESTROY()
    ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/d2ab9043-e633-4992-b72e-f8f604910043)
 
