@@ -135,7 +135,7 @@ Registeration Number :212221040051
    ## ON_RESTART()
    ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/89b41d12-373f-4bca-abdf-4131c97d2726)
    ## ON_DESTROY()
-    ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/d2ab9043-e633-4992-b72e-f8f604910043)
+   ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/d2ab9043-e633-4992-b72e-f8f604910043)
 
 
 ## RESULT
