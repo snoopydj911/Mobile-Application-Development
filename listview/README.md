@@ -215,14 +215,14 @@ Registeration Number : 212221040051
         return rowView;
     };
     }
-    
+  
 ## OUTPUT
 
-   ![Main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/da8945d1-3ed5-4d3e-8ca5-2ffe0db827ce)
-   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/508ca973-0dda-4e64-ac14-9e5023b5ace6)
-   ![1](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/c223aae1-83e9-483c-b1de-b20dfd0e5fca)
-   ![2](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/c387505a-0d4e-4bd6-b1b4-990741446492)   
-   ![3](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/75b290da-3d45-42f8-b60f-2cac9809f135)
+   ![Main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/da8945d1-3ed5-4d3e-8ca5-2ffe0db827ce) <br>
+   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/508ca973-0dda-4e64-ac14-9e5023b5ace6) <br>
+   ![1](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/c223aae1-83e9-483c-b1de-b20dfd0e5fca) <br>
+   ![2](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/c387505a-0d4e-4bd6-b1b4-990741446492)   <br>
+   ![3](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/75b290da-3d45-42f8-b60f-2cac9809f135) <br>
    
    <br><br><br><br><br><br><br><br><br><br><br><br>
 
