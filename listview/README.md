@@ -215,7 +215,7 @@ Registeration Number : 212221040051
         return rowView;
     };
     }
-  
+  <br>
 ## OUTPUT
 
    ![Main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/da8945d1-3ed5-4d3e-8ca5-2ffe0db827ce) <br>
