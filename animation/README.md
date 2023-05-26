@@ -318,6 +318,14 @@ Registeration Number : 212221040051
     }
 ## OUTPUT
 
+   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/ee4bec16-7a29-4646-9d0b-ed4dbdc277b5) <br>
+   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/1b71858d-e238-4c2f-8497-7dba01f868d7) <br>
+   ![1](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/99e571cd-e38a-4b11-942e-463a0eaf222d) <br>
+![2](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/a0e5d84a-17b3-4028-bbf5-f0ddaa986b3f) <br>
+![3](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/69e3b7bd-d117-4129-99f1-54d107055860) <br>
+![4](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/51fa79bc-578c-461d-8333-3b31e11cee93) <br>
+![5](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/79304eb0-f1c0-44b2-ac5b-2e006164e2a9) <br>
+
 
 
 
