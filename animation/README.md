@@ -330,3 +330,5 @@ Registeration Number : 212221040051
 
 
 ## RESULT
+
+       Thus the application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio is created successfully.
